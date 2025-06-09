@@ -1,1 +1,3 @@
-# pet_project_expenses_accounting
+# Expenses Accounting
+
+Pet project
