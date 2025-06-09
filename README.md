@@ -1,3 +1,3 @@
 # Expenses Accounting
 
-Pet project
+Pet project for using best practice and approaches
